@@ -24,6 +24,9 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//var cs = builder.Configuration.GetConnectionString("DefaultConnection");
+//Console.WriteLine("EF CORE CONNECTING TO -> " + cs);
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

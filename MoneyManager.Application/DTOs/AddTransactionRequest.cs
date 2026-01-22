@@ -15,7 +15,7 @@ namespace MoneyManager.Application.DTOs
         public DateTime Date { get; set; }
         public TransactionType TransactionType { get; set; }
         public string? Description { get; set; }
-        public string? Notes { get; set; }
+        public string? Note { get; set; }
 
     }
 }

@@ -13,7 +13,7 @@ namespace MoneyManager.Application.DTOs
         public string Category { get; set; } = string.Empty;
         public DateTime Date { get; set; }
         public TransactionType TransactionType { get; set; }
-        public string? Notes { get; set; }
+        public string? Note { get; set; }
         public string? Description { get; set; }
     }
 }

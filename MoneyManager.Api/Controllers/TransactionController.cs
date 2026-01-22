@@ -5,7 +5,7 @@ using MoneyManager.Application.UseCases;
 namespace MoneyManager.Api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/transactions")]
     public class TransactionController : ControllerBase
     {
         private readonly AddTransactionUseCase _addTransactionUseCase;

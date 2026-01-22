@@ -27,7 +27,7 @@ namespace MoneyManager.Application.UseCases
             transaction.Category = request.Category;
             transaction.Date = request.Date;
             transaction.TransactionType = request.TransactionType;
-            transaction.Notes = request.Notes;
+            transaction.Note = request.Note;
             transaction.Description = request.Description;
 
             await _repository.UpdateAsync(transaction);

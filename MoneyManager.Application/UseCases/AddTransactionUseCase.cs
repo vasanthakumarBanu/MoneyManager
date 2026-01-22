@@ -31,7 +31,7 @@ namespace MoneyManager.Application.UseCases
                 Category = request.Category,
                 Date = request.Date,
                 TransactionType = request.TransactionType,
-                Notes = request.Notes,
+                Note = request.Note,
                 Description = request.Description
             };
 
