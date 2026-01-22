@@ -1,0 +1,16 @@
+F:\IT\Projects\MoneyManager\MoneyManager.Application\bin\Debug\net8.0\MoneyManager.Application.deps.json
+F:\IT\Projects\MoneyManager\MoneyManager.Application\bin\Debug\net8.0\MoneyManager.Application.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Application\bin\Debug\net8.0\MoneyManager.Application.pdb
+F:\IT\Projects\MoneyManager\MoneyManager.Application\bin\Debug\net8.0\MoneyManager.Domain.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Application\bin\Debug\net8.0\MoneyManager.Domain.pdb
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.csproj.AssemblyReference.cache
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.AssemblyInfoInputs.cache
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.AssemblyInfo.cs
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.csproj.CoreCompileInputs.cache
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.sourcelink.json
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyMan.A0443C57.Up2Date
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\refint\MoneyManager.Application.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\MoneyManager.Application.pdb
+F:\IT\Projects\MoneyManager\MoneyManager.Application\obj\Debug\net8.0\ref\MoneyManager.Application.dll

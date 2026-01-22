@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9061167B-136C-7C35-B2AD-3BC8A3F79868}|..\\MoneyManager.Application\\MoneyManager.Application.csproj|f:\\it\\projects\\moneymanager\\moneymanager.application\\usecases\\addtransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|f:\\it\\projects\\moneymanager\\moneymanager.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6FC070-138B-D385-D5D5-766D8D835B1A}|..\\MoneyManager.Infrastructure\\MoneyManager.Infrastructure.csproj|f:\\it\\projects\\moneymanager\\moneymanager.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6FC070-138B-D385-D5D5-766D8D835B1A}|..\\MoneyManager.Infrastructure\\MoneyManager.Infrastructure.csproj|f:\\it\\projects\\moneymanager\\moneymanager.infrastructure\\migrations\\20260116193303_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6FC070-138B-D385-D5D5-766D8D835B1A}|..\\MoneyManager.Infrastructure\\MoneyManager.Infrastructure.csproj|f:\\it\\projects\\moneymanager\\moneymanager.infrastructure\\migrations\\20260116193303_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061167B-136C-7C35-B2AD-3BC8A3F79868}|..\\MoneyManager.Application\\MoneyManager.Application.csproj|f:\\it\\projects\\moneymanager\\moneymanager.application\\usecases\\updatetransactionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061167B-136C-7C35-B2AD-3BC8A3F79868}|..\\MoneyManager.Application\\MoneyManager.Application.csproj|f:\\it\\projects\\moneymanager\\moneymanager.application\\dtos\\updatetransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9061167B-136C-7C35-B2AD-3BC8A3F79868}|..\\MoneyManager.Application\\MoneyManager.Application.csproj|f:\\it\\projects\\moneymanager\\moneymanager.application\\dtos\\addtransactionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C90F258-7113-ABDC-DCC4-91E9DBEE7E8E}|..\\MoneyManager.Domain\\MoneyManager.Domain.csproj|f:\\it\\projects\\moneymanager\\moneymanager.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|f:\\it\\projects\\moneymanager\\moneymanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|f:\\it\\projects\\moneymanager\\moneymanager.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0260FC9-2D6F-1018-699E-58D2774FE3AC}|MoneyManager.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\MoneyManager.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:44:27.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddTransactionRequest.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\DTOs\\AddTransactionRequest.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Application\\DTOs\\AddTransactionRequest.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\DTOs\\AddTransactionRequest.cs",
+              "RelativeToolTip": "..\\MoneyManager.Application\\DTOs\\AddTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:32:56.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:55:17.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddTransactionUseCase.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\UseCases\\AddTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Application\\UseCases\\AddTransactionUseCase.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\UseCases\\AddTransactionUseCase.cs",
+              "RelativeToolTip": "..\\MoneyManager.Application\\UseCases\\AddTransactionUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:33:27.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateTransactionUseCase.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\UseCases\\UpdateTransactionUseCase.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Application\\UseCases\\UpdateTransactionUseCase.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\UseCases\\UpdateTransactionUseCase.cs",
+              "RelativeToolTip": "..\\MoneyManager.Application\\UseCases\\UpdateTransactionUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:31:53.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260116193303_InitialCreate.Designer.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.Designer.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.Designer.cs",
+              "RelativeToolTip": "..\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA5wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T18:44:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateTransactionRequest.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\DTOs\\UpdateTransactionRequest.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Application\\DTOs\\UpdateTransactionRequest.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Application\\DTOs\\UpdateTransactionRequest.cs",
+              "RelativeToolTip": "..\\MoneyManager.Application\\DTOs\\UpdateTransactionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T17:33:01.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260116193303_InitialCreate.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.cs",
+              "RelativeToolTip": "..\\MoneyManager.Infrastructure\\Migrations\\20260116193303_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:33:04.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "..\\MoneyManager.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "..\\MoneyManager.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T19:29:59.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:28:38.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\IT\\Projects\\MoneyManager\\MoneyManager.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T16:44:45.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

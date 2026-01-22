@@ -1,0 +1,12 @@
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\bin\Debug\net8.0\MoneyManager.Domain.deps.json
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\bin\Debug\net8.0\MoneyManager.Domain.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\bin\Debug\net8.0\MoneyManager.Domain.pdb
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.AssemblyInfoInputs.cache
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.AssemblyInfo.cs
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.csproj.CoreCompileInputs.cache
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.sourcelink.json
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\refint\MoneyManager.Domain.dll
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\MoneyManager.Domain.pdb
+F:\IT\Projects\MoneyManager\MoneyManager.Domain\obj\Debug\net8.0\ref\MoneyManager.Domain.dll

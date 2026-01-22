@@ -19,6 +19,6 @@ namespace MoneyManager.Domain.Entities
 
         public string? Description { get; set; }
 
-        public string? Notes { get; set; }
+        public string? Note { get; set; }
     }
 }

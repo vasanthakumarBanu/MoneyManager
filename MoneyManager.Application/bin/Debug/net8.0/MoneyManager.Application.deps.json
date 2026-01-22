@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MoneyManager.Application/1.0.0": {
+        "dependencies": {
+          "MoneyManager.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MoneyManager.Application.dll": {}
+        }
+      },
+      "MoneyManager.Domain/1.0.0": {
+        "runtime": {
+          "MoneyManager.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MoneyManager.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MoneyManager.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
